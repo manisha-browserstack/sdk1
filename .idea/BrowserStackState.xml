@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BrowserStackState">
-    <option name="bsAccessKey" value="9EPg5LWmsfP6VNDNXBjp" />
-    <option name="bsUsername" value="manishasardar_HBC0EW" />
+    <option name="bsAccessKey" value="Browserstack_key" />
+    <option name="bsUsername" value="Browserstack_username" />
   </component>
 </project>
