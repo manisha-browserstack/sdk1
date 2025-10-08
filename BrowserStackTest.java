@@ -20,8 +20,8 @@ public class BrowserStackTest {
 
         // Fallback (use only if env variables are not set)
         if (username == null || accessKey == null) {
-            username = "manishasardar_HBC0EW";   // 🔹 replace with your BrowserStack Username
-            accessKey = "9EPg5LWmsfP6VNDNXBjp"; // 🔹 replace with your BrowserStack Access Key
+            username = "Browserstack username";   // 🔹 replace with your BrowserStack Username
+            accessKey = "Browserstack-key"; // 🔹 replace with your BrowserStack Access Key
         }
 
         // Define capabilities
